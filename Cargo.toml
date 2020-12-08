@@ -1,0 +1,9 @@
+[package]
+name = "click_me_if_you_can"
+version = "0.1.0"
+authors = ["Christopher Wilke <chriwil@microsoft.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
